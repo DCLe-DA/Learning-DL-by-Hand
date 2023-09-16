@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T12:27:15.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="LdNLwQ_UHOMprvHjB3Wn" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T12:29:09.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="DhF7J7h45mzOwJMPXcOt" version="21.7.4" type="github">
   <diagram name="第 1 页" id="aq9NHD4o_157xsU_8mPB">
     <mxGraphModel dx="1658" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry x="262" y="248.5" width="381" height="326.5" as="geometry" />
         </mxCell>
         <mxCell id="B_Na2INnCVECL0KGW9Hh-83" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;strokeColor=#0D9EFF;" vertex="1" parent="1">
-          <mxGeometry x="264" y="589" width="381" height="262" as="geometry" />
+          <mxGeometry x="264" y="589" width="532" height="262" as="geometry" />
         </mxCell>
         <mxCell id="B_Na2INnCVECL0KGW9Hh-84" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Actor Network&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="284" y="253" width="82" height="30" as="geometry" />
@@ -597,6 +597,15 @@
         </mxCell>
         <mxCell id="B_Na2INnCVECL0KGW9Hh-323" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="493.99857142857155" y="787" width="38" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Na2INnCVECL0KGW9Hh-324" value="Decided&lt;br&gt;Action" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;strokeColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="678" y="483.94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Na2INnCVECL0KGW9Hh-325" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;fillColor=#ffcccc;strokeColor=#FFCCFF;" edge="1" parent="1" source="B_Na2INnCVECL0KGW9Hh-87" target="B_Na2INnCVECL0KGW9Hh-324">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699" y="523" as="sourcePoint" />
+            <mxPoint x="749" y="473" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
