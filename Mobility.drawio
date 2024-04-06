@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T14:12:22.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="mcRkodBx1yiojYAzZgMq" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T14:13:12.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="o9aqxjl1mHe2NRatW-c6" version="22.1.18" type="github">
   <diagram name="第 1 页" id="sI7hNG2p3jesubOJCjaC">
     <mxGraphModel dx="3249" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="WSqxyrb5zkdi1G1MjGqU-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-280" y="519.17" as="sourcePoint" />
-            <mxPoint x="-130" y="519.17" as="targetPoint" />
+            <mxPoint x="-270" y="519.17" as="sourcePoint" />
+            <mxPoint x="-120" y="519.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSqxyrb5zkdi1G1MjGqU-56" value="R&lt;sub&gt;L&lt;br&gt;CPU: 15&lt;br&gt;Storage:18&lt;br&gt;Bandwidth:6&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;" vertex="1" parent="1">
@@ -97,8 +97,8 @@
             <mxPoint x="105" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSqxyrb5zkdi1G1MjGqU-61" value="决定接收R&lt;sub&gt;L&lt;/sub&gt;&lt;br&gt;分配资源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="480" width="90" height="40" as="geometry" />
+        <mxCell id="WSqxyrb5zkdi1G1MjGqU-61" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;决定接收R&lt;sub&gt;L&lt;/sub&gt;&lt;br&gt;分配资源&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="494" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
