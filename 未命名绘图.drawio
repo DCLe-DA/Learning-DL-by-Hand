@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="JoeD6NzNSS_i4DSreLfH">
-    <mxGraphModel dx="1175" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="428" pageHeight="350" math="1" shadow="0">
+    <mxGraphModel dx="1175" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="270" pageHeight="255" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2C756ZhiDrafyLP1WScV-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100.0019512195122" y="60" width="257.7980487804879" height="227.80578713968964" as="geometry" />
+          <mxGeometry x="6.001951219512193" y="14" width="257.7980487804879" height="227.80578713968964" as="geometry" />
         </mxCell>
         <mxCell id="GH1kzZb3Gu5YwuAaE8iT-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;$$e_1$$&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99CCFF;strokeColor=none;fontColor=#ffffff;" parent="2C756ZhiDrafyLP1WScV-2" vertex="1">
           <mxGeometry x="19.998048780487807" y="105.83363636363637" width="37.804878048780495" height="37.804878048780495" as="geometry" />
